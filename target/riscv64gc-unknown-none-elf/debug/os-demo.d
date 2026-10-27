@@ -1,0 +1,1 @@
+/mnt/c/Users/Lenovo/qemu-7.0.0/rCore-Tutorial-Code/os-demo/target/riscv64gc-unknown-none-elf/debug/os-demo: /mnt/c/Users/Lenovo/qemu-7.0.0/rCore-Tutorial-Code/os-demo/src/lang_items.rs /mnt/c/Users/Lenovo/qemu-7.0.0/rCore-Tutorial-Code/os-demo/src/main.rs

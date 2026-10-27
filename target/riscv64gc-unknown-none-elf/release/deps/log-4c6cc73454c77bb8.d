@@ -1,0 +1,10 @@
+/mnt/c/Users/Lenovo/qemu-7.0.0/rCore-Tutorial-Code/os-demo/target/riscv64gc-unknown-none-elf/release/deps/liblog-4c6cc73454c77bb8.rmeta: /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/lib.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/macros.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/serde.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/__private_api.rs
+
+/mnt/c/Users/Lenovo/qemu-7.0.0/rCore-Tutorial-Code/os-demo/target/riscv64gc-unknown-none-elf/release/deps/liblog-4c6cc73454c77bb8.rlib: /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/lib.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/macros.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/serde.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/__private_api.rs
+
+/mnt/c/Users/Lenovo/qemu-7.0.0/rCore-Tutorial-Code/os-demo/target/riscv64gc-unknown-none-elf/release/deps/log-4c6cc73454c77bb8.d: /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/lib.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/macros.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/serde.rs /home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/__private_api.rs
+
+/home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/lib.rs:
+/home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/macros.rs:
+/home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/serde.rs:
+/home/claude_code_trigger/.cargo/registry/src/index.crates.io-6f17d22bba15001f/log-0.4.34/src/__private_api.rs:
